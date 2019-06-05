@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UIFrame/uiframe.unity
+  isLoaded: 1
+  isActive: 1
